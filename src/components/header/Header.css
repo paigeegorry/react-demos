@@ -1,0 +1,12 @@
+div {
+  background: lightcoral;
+  height: 80px;
+  margin: 20px;
+
+  h1, p {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px 0px 20px 0px;
+    color: white;
+  }
+}
